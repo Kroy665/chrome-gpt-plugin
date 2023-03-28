@@ -1,4 +1,4 @@
-# Welcome To ES GPT Plugin
+# Welcome To GPT Plugin
 
 create a .env file in the root directory of the project and add the following variables
 `REACT_APP_JWT_SECRET` 

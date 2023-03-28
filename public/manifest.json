@@ -1,11 +1,11 @@
 {
   "manifest_version": 3,
-  "name": "ES GPT Plugin",
+  "name": "GPT Plugin",
   "version": "0.0.1",
-  "short_name": "ES GPT Plugin", 
+  "short_name": "GPT Plugin", 
   "action": {
     "default_popup": "index.html",
-    "default_title": "ES GPT Plugin"
+    "default_title": "GPT Plugin"
   },
   "icons": {
     "16": "images/icon16.png",

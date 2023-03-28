@@ -80,7 +80,7 @@ function App() {
       }
       <header className="App-header">
         <span>
-          {token ? `Welcome To ES GPT Plugin` : 'Please login'}
+          {token ? `Welcome To GPT Plugin` : 'Please login'}
         </span>
         {token &&
         <button 
@@ -172,7 +172,7 @@ function App() {
       </div>
       <footer className="App-footer">
         <span>
-          Powered by Everydayseries
+          Powered by Koushik Roy
         </span>
       </footer>
     </div>
